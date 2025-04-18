@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /layouts/
 Allow: /
 
-Sitemap: https://marvhock.com/sitemap.xml
+Sitemap: https://www.marvhock.com/marvhock-legacy/sitemap.xml
