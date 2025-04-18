@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /layouts/
-Allow: /
-
-Sitemap: https://marvhock.com/sitemap.xml
