@@ -1,13 +1,8 @@
-# marvhock
-Source code of my personal website - https://www.marvhock.com  
-This site is build with [Hugo](https://gohugo.io/), a static site generator written in [Go](https://golang.org/).
+# Legacy Version of marvhock.com
 
-# Usage
-1. [Install Hugo](https://gohugo.io/getting-started/installing)
-2. run `npm i`
-3. run `npm run build`
-4. run `hugo server -F -D`
-5. Open http://localhost:1313/
+Archived version of my personal website.  
 
-For Development run `npm start` and `hugo server -F -D` simultaniously.  
-For Deployment run `./deploy.sh`
+[Current version (GitHub)](https://github.com/marvhock/marvhock.github.io)
+
+## Legacy site
+Publicly available at: [marvhock.com/marvhock-legacy](https://marvhock.com/marvhock-legacy/)
